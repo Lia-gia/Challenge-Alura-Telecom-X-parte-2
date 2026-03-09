@@ -102,11 +102,6 @@ F1-score
 
 Matriz de confusión
 
-Resultados
-Modelo	Accuracy	Precision	Recall	F1-score
-SVM	0.80	0.66	0.53	0.59
-KNN	0.76	0.54	0.54	0.54
-
 El modelo SVM obtuvo el mejor desempeño general, especialmente en accuracy y F1-score, mostrando un mejor equilibrio entre precisión y detección de churn.
 
 📊 Interpretación de Variables
