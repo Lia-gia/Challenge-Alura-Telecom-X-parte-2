@@ -1,6 +1,7 @@
 # Challenge-Alura-Telecom-X-parte-2
 
 📊 Predicción de Cancelación de Clientes (Churn Prediction)
+
 📌 Descripción del Proyecto
 
 Este proyecto tiene como objetivo analizar los factores que influyen en la cancelación de clientes (churn) y desarrollar modelos de Machine Learning capaces de predecir si un cliente abandonará el servicio.
